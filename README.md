@@ -173,6 +173,12 @@ curl https://manticoresearch.com | sh -s upgrade
 
 Docker image is available on [Docker Hub](https://dockr.ly/33biV0U).
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Manticore%20Search/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/manticore"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+<a href="https://elest.io/open-source/manticoresearch"><img src="https://elest.io/images/logos/deploy-to-elestio-btn.png" alt="Deploy on Elestio" height="42"></a>
+
 To experiment with Manticore Search in Docker just run:
 
 ```
